@@ -5,3 +5,5 @@ The two moons may be a problem for Wolfman.
 Extra line
 
 Second extra line	
+
+The moon may be blue, but Mars is always red.
