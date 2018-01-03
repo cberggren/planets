@@ -7,3 +7,7 @@ Extra line
 Second extra line	
 
 The moon may be blue, but Mars is always red.
+Second extra line
+
+Change to test conflicts. 	
+
