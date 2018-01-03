@@ -13,3 +13,6 @@ Change to test conflicts.
 
 Partner A's changes to attempt to create a merge conflict. 
 
+This change is no doubt a great improvement.
+
+
